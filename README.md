@@ -4,7 +4,7 @@ Sou de **Serra Negra, interior de SP**, e sou do tempo em que *"tudo era mato"* 
 Minha jornada na área de TI começou há bastante tempo, com cursos de **MS-DOS 6.22, WordStar, Lotus 1-2-3, Dbase III Plus**, entre outros clássicos.
 
 ## 🖥️ Meu primeiro computador e os meus primeiros passos com desenvolvimento de softwares
-- **PC-XT** com processador **Intel 8088 @ 4,77 MHz**  
+- **PC-XT** com processador **Intel não chegava a 12 MHz**  
 - Memória RAM que mal chegava a **640 KB** (rs)  
 - Programava em **Dbase III Plus** com bases de dados `.dbf`  
 - Evoluí para **Clipper Summer '87** e depois **Clipper 5.x**, que era super estável em rede com **Novell NetWare**
