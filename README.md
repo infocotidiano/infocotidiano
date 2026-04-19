@@ -1,6 +1,6 @@
 # 👋 Salve Devs!
 
-Sou de **Serra Negra, interior de SP**, e sou do tempo em que *"tudo era mato"* na informática.  
+Sou de Serra Negra, interior de SP, e comecei na informática lá no início dos anos 90 (precisamente 1991) — quando literalmente “tudo era mato” nesse mundo da tecnologia.
 No trabalho, usávamos um MSX Expert da Gradiente, conectado via modem às centrais da TELESP (hoje Vivo).  
 Era através do serviço de Videotexto que fazíamos consultas, acessávamos notícias, informações públicas e até catálogos comerciais — tudo em páginas de texto, navegadas por códigos numéricos.  
 Minha jornada em TI começou quando recebi um “prêmio” pelo bom desempenho no trabalho e pude escolher entre cursos de informática (MS-DOS 6.22, WordStar, Lotus 1-2-3, Dbase III Plus, entre outros clássicos) ou um curso de datilografia, que na época era o mais comum no mercado.  
