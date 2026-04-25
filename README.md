@@ -8,6 +8,10 @@ Escolhi informática — e não me arrependo nem um pouco.
 Foi essa decisão que abriu o caminho para tudo que veio depois.
 
 ## 🖥️ Meu primeiro computador e os meus primeiros passos com desenvolvimento de softwares
+<p align="center">
+<br>
+  <img src="https://raw.githubusercontent.com/infocotidiano/infocotidiano/main/images/pcdane.jpeg" width="180"/>
+</p>  
 - **PC-XT** com processador **Intel não chegava a 12 MHz**  
 - Memória RAM que mal chegava a **640 KB** (rs)  
 - Programava em **Dbase III Plus** com bases de dados `.dbf`  
