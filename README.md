@@ -31,7 +31,7 @@ Foi essa decisão que abriu o caminho para tudo que veio depois.
 
 <p align="center">
   <img src="images/clipperDanevDOS.png" width="600"/><br/>
-  <sub>Meu sistema clipper para Restaurantes (teste no vDOS)</sub>
+  <sub>Meu antigo sistema clipper para Restaurantes (teste recente no vDOS,"nuss" rodou rs)</sub>
 </p>
 
 - Com a chegada do Windows evolui peara desenvolvimento usando Delphi / Lazarus (Free Pascal) 
