@@ -43,7 +43,24 @@ Com o Blogspot da Google, tive a chance de começar a criar meus próprios blogs
 - Depois veio o StartDB, voltado para iniciantes em banco de dados. Nele reuni várias dicas e comandos para trabalhar com sistemas como Firebird, MySQL/MariaDB, Postgres, entre outros.  
 - Mais tarde criei o AprendaLazarus, um espaço para concentrar vídeos e conteúdos sobre Lazarus Free Pascal. Na época era difícil encontrar informações organizadas sobre a linguagem, então a ideia foi justamente facilitar esse acesso.
 
-Hoje tenho orgulho de fazer parte do time de consultores do **Projeto ACBr**, a maior comunidade **Open Source** para automação comercial do Brasil.  
+Hoje tenho orgulho 💚 de fazer parte do time de consultores/dev do **Projeto ACBr** — a maior comunidade Open Source de automação comercial do Brasil, **utilizada por milhares de desenvolvedores e software houses.**
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/DiaDoACBr2024Time.jpg" width="300"/>
+        <br/><sub>Time Projeto ACBr no Dia do ACBr 2024</sub>
+      </td>
+      <td align="center">
+        <img src="images/DiaDoACBr2025Time.jpg" width="300"/>
+        <br/><sub>Time Projeto ACBr no Dia do ACBr 2024</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 
 ## 🎥 Canal no YouTube e Blogs
 Compartilho conhecimento e experiências no meu canal:  
