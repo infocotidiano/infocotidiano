@@ -54,7 +54,7 @@ Hoje tenho orgulho 💚 de fazer parte do time de consultores/dev do **Projeto A
       </td>
       <td align="center">
         <img src="images/DiaDoACBr2025Time.jpg" width="300"/>
-        <br/><sub>Time Projeto ACBr no Dia do ACBr 2024</sub>
+        <br/><sub>Time Projeto ACBr no Dia do ACBr 2025</sub>
       </td>
     </tr>
   </table>
@@ -74,6 +74,7 @@ Compartilho conhecimento e experiências no meu canal:
 
 ## 📚 Sempre evoluindo
 Continuo aprendendo novas linguagens e tecnologias, mantendo a paixão por inovação e automação.
+
 
 ##
 ## Ferramentas e Tecnologias
