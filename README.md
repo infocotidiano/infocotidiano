@@ -17,7 +17,7 @@ Foi essa decisão que abriu o caminho para tudo que veio depois.
         <br/><sub>Imagem do meu primeiro PC (restaurada via IA)</sub>
       </td>
       <td align="center">
-        <img src="images/acervodane.jpg" width="180"/>
+        <img src="images/acervodane.jpg" width="205"/>
         <br/><sub>Disquete 5.25 que tenho guardado</sub>
       </td>
     </tr>
