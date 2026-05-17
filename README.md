@@ -10,8 +10,18 @@ Foi essa decisão que abriu o caminho para tudo que veio depois.
 ## 🖥️ Meu primeiro computador e os meus primeiros passos com desenvolvimento de softwares  
 
 <p align="center">
-<br>
-  <img src="https://raw.githubusercontent.com/infocotidiano/infocotidiano/main/images/pcdane.png" width="180"/>
+
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/infocotidiano/infocotidiano/main/images/pcdane.png" width="180"/>
+    <figcaption>Imagem do meu primeiro PC (restaurada via IA)</figcaption>
+  </figure>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/infocotidiano/infocotidiano/main/images/acervodane.jpg" width="180"/>
+    <figcaption>Disquete 5.25 que tenho guardado</figcaption>
+  </figure>
+
+
 </p>  
 
 - **PC-XT** com processador **Intel não chegava a 12 MHz**  
