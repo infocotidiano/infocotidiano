@@ -10,24 +10,30 @@ Foi essa decisão que abriu o caminho para tudo que veio depois.
 ## 🖥️ Meu primeiro computador e os meus primeiros passos com desenvolvimento de softwares  
 
 <p align="center">
-
-  <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/infocotidiano/infocotidiano/main/images/pcdane.png" width="180"/>
-    <figcaption>Imagem do meu primeiro PC (restaurada via IA)</figcaption>
-  </figure>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/infocotidiano/infocotidiano/main/images/acervodane.jpg" width="180"/>
-    <figcaption>Disquete 5.25 que tenho guardado</figcaption>
-  </figure>
-
-
-</p>  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/pcdane.png" width="180"/>
+        <br/><sub>Imagem do meu primeiro PC (restaurada via IA)</sub>
+      </td>
+      <td align="center">
+        <img src="images/acervodane.jpg" width="180"/>
+        <br/><sub>Disquete 5.25 que tenho guardado</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 - **PC-XT** com processador **Intel não chegava a 12 MHz**  
 - Memória RAM que mal chegava a **640 KB** (rs)  
 - Programava em **Dbase III Plus** com bases de dados `.dbf`  
 - Evoluí para **Clipper Summer '87** e depois **Clipper 5.x**, que era super estável em rede com **Novell NetWare** ou **LANtastic**
+
+<p align="center">
+  <img src="images/clipperDanevDOS.png" width="600"/><br/>
+  <sub>Meu sistema clipper para Restaurantes (teste no vDOS)</sub>
+</p>
+
 - Com a chegada do Windows evolui peara desenvolvimento usando Delphi / Lazarus (Free Pascal) 
 
 ## 🚀 Minha trajetória
