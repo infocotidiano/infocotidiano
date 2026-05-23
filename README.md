@@ -4,6 +4,29 @@ Sou de Serra Negra, interior de SP, e comecei na informática lá no início dos
 No trabalho, usávamos um MSX Expert da Gradiente, conectado via modem às centrais da TELESP (hoje Vivo).  
 Era através do serviço de Videotexto que fazíamos consultas, acessávamos notícias, informações públicas e até catálogos comerciais — tudo em páginas de texto, navegadas por códigos numéricos.  
 Minha jornada em TI começou quando recebi um “prêmio” pelo bom desempenho no trabalho e pude escolher entre cursos de informática (MS-DOS 6.22, WordStar, Lotus 1-2-3, Dbase III Plus, entre outros clássicos) ou um curso de datilografia, que na época era o mais comum no mercado.  
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/wordstar.png" width="300"/>
+        <br/><sub>WordStar</sub>
+      </td>
+      <td align="center">
+        <img src="images/dbaseiii.png" width="300"/>
+        <br/><sub>DBase III</sub>
+      </td>
+      <td align="center">
+        <img src="images/lotus123.png" width="300"/>
+        <br/><sub>Lotus 1-2-3</sub>
+      </td>    
+    </tr>
+  </table>
+</p>  
+
+Quer matar a saudade ou quer conhecer e emular estes softwares que marcaram uma geração, acesse [pcjs.org](https://www.pcjs.org/) 
+
+
 Escolhi informática — e não me arrependo nem um pouco.  
 Foi essa decisão que abriu o caminho para tudo que veio depois.
 
