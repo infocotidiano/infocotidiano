@@ -91,9 +91,9 @@ Hoje tenho orgulho 💚 de fazer parte do time de consultores/dev do [**Projeto 
 
 ## 🎥 Canal no YouTube e Blogs
 Compartilho conhecimento e experiências no meu canal:  
-👉 [InfoCotidiano](https://www.youtube.com/InfoCotidiano)
+👉 [Youtube - InfoCotidiano](https://www.youtube.com/InfoCotidiano)
 
-👉 [InfoCotidiano](https://infocotidiano.com.br)
+👉 [Blog - InfoCotidiano](https://infocotidiano.com.br)
 
 
 ## 📚 Sempre evoluindo
