@@ -95,9 +95,6 @@ Compartilho conhecimento e experiências no meu canal:
 
 👉 [InfoCotidiano](https://infocotidiano.com.br)
 
-👉 [StartDB](https://startdb.com.br/)
-
-👉 [AprendaLazarus](https://aprendalazarus.com.br/)
 
 ## 📚 Sempre evoluindo
 Continuo aprendendo novas linguagens e tecnologias, mantendo a paixão por inovação e automação.
