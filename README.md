@@ -49,7 +49,7 @@ Foi essa decisão que abriu o caminho para tudo que veio depois.
 
 - **PC-XT** com processador **Intel não chegava a 12 MHz**  
 - Memória RAM que mal chegava a **640 KB** (rs)  
-- Programava em **Dbase III Plus** com bases de dados `.dbf`  
+- Programava em **Dbase III Plus** com bases de dados `.dbf`  (xBase)
 - Evoluí para **Clipper Summer '87** e depois **Clipper 5.x**, que era super estável em rede com **Novell NetWare** ou **LANtastic**
 
 <p align="center">
@@ -66,7 +66,10 @@ Com o Blogspot da Google, tive a chance de começar a criar meus próprios blogs
 - Depois veio o StartDB, voltado para iniciantes em banco de dados. Nele reuni várias dicas e comandos para trabalhar com sistemas como Firebird, MySQL/MariaDB, Postgres, entre outros.  
 - Mais tarde criei o AprendaLazarus, um espaço para concentrar vídeos e conteúdos sobre Lazarus Free Pascal. Na época era difícil encontrar informações organizadas sobre a linguagem, então a ideia foi justamente facilitar esse acesso.
 
-- Atualmente todos posts do StartDB e do AprendaLazarus estão no Blog Oficial [InfoCotidiano](https://infocotidiano.com.br/).
+**Todo o conteúdo do StartDB e do AprendaLazarus foi integrado ao InfoCotidiano**, que passa a concentrar artigos, tutoriais e materiais sobre desenvolvimento, bancos de dados, Lazarus, Delphi, Python e outras tecnologias.
+
+**Um único portal, mais conteúdo e tudo mais fácil de encontrar.**   
+[InfoCotidiano](https://infocotidiano.com.br/).
 
 Hoje tenho orgulho 💚 de fazer parte do time de consultores/dev do [**Projeto ACBr**](https://projetoacbr.com.br/) — a maior comunidade Open Source de automação comercial do Brasil, **utilizada por milhares de desenvolvedores e software houses.**
 
