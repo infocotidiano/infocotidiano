@@ -66,6 +66,8 @@ Com o Blogspot da Google, tive a chance de começar a criar meus próprios blogs
 - Depois veio o StartDB, voltado para iniciantes em banco de dados. Nele reuni várias dicas e comandos para trabalhar com sistemas como Firebird, MySQL/MariaDB, Postgres, entre outros.  
 - Mais tarde criei o AprendaLazarus, um espaço para concentrar vídeos e conteúdos sobre Lazarus Free Pascal. Na época era difícil encontrar informações organizadas sobre a linguagem, então a ideia foi justamente facilitar esse acesso.
 
+- Atualmente todos posts do StartDB e do AprendaLazarus estão no Blog Oficial [InfoCotidiano](https://infocotidiano.com.br/).
+
 Hoje tenho orgulho 💚 de fazer parte do time de consultores/dev do [**Projeto ACBr**](https://projetoacbr.com.br/) — a maior comunidade Open Source de automação comercial do Brasil, **utilizada por milhares de desenvolvedores e software houses.**
 
 <p align="center">
